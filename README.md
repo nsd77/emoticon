@@ -13,7 +13,7 @@
 
 ## Setting Up
 ***
-The model is developed on the following system environments,
+The model is developed on the following system environments, 
 - python 3.9
 - tensorflow 2.7.
 
